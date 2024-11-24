@@ -1,0 +1,31 @@
+## [64\. 最小路径总和](https://leetcode.com/problems/minimum-path-sum/)
+
+给定一个充满非负数的 a，找到一条从左上角到右下角的路径，这将使沿其路径上所有数字的总和最小化。`m x n``grid`
+
+**注意：**您只能在任何时间点向下或向右移动。
+
+**示例 1：**
+
+![](vx_images/374697168110116.jpg)
+
+**Input:** grid = \[\[1,3,1\],\[1,5,1\],\[4,2,1\]\]
+**Output:** 7
+**Explanation:** Because the path 1 → 3 → 1 → 1 → 1 minimizes the sum.
+
+**示例 2：**
+
+**Input:** grid = \[\[1,2,3\],\[4,5,6\]\]
+**Output:** 12
+
+**约束：**
+
+*   `m == grid.length`
+*   `n == grid[i].length`
+*   `1 <= m, n <= 200`
+*   `0 <= grid[i][j] <= 200`
+
+**题解**
+```cpp
+
+
+```
